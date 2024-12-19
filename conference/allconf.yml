@@ -42,3 +42,74 @@
         timezone: AoE
         date: November, 2025
         place: Hong Kong, China
+  - title: INFOCOM
+    description: IEEE International Conference on Computer Communications
+    sub: NW
+    rank:
+      ccf: A
+      core: A*
+      thcpl: A
+    dblp: infocom
+    confs:
+      - year: 2025
+        id: infocom25
+        link: https://infocom2025.ieee-infocom.org/
+        timeline:
+          - abstract_deadline: '2024-07-24 23:59:59'
+            deadline: '2024-07-31 23:59:59'
+        timezone: UTC-7
+        date: May 19-22, 2025
+        place: London, United Kindom
+  - title: SIGCOMM
+    description: ACM International Conference on Applications, Technologies, Architectures,
+      and Protocols for Computer Communication
+    sub: NW
+    rank:
+      ccf: A
+      core: A*
+      thcpl: A
+    dblp: sigcomm
+    confs:
+      - year: 2025
+        id: sigcomm25
+        link: https://conferences.sigcomm.org/sigcomm/2025/
+        timeline:
+          - abstract_deadline: '2025-01-24 23:59:59'
+            deadline: '2025-01-31 23:59:59'
+        timezone: UTC
+        date: September 8-11, 2025
+        place: Coimbra, Portugal
+  - title: RTSS
+    description: The IEEE Real-Time Systems Symposium
+    sub: MX
+    rank:
+      ccf: A
+      core: A*
+      thcpl: B
+    dblp: rtss
+    confs:
+      - year: 2025
+        id: rtss25
+        link: https://2025.rtss.org/
+        timeline:
+          - deadline: '2025-05-22 23:59:59'
+        timezone: AoE
+        date: December 2-5, 2025
+        place: Boston, MA, USA
+
+    description: IEEE International Conference on Computer Vision
+    sub: AI
+    rank:
+      ccf: A
+      core: A*
+      thcpl: A
+    dblp: iccv
+    confs:
+      - year: 2025
+        id: iccv25
+        link: https://iccv2025.thecvf.com/
+        timeline:
+          - deadline: '2025-03-07 07:59:59'
+        timezone: UTC
+        date: October 19-25, 2025
+        place: Honolulu, Hawaii
